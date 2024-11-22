@@ -1,0 +1,18 @@
+body {
+   background-color:#e0e0e0; /* Cor de fundo */
+}
+header {
+    background-color:yellow; /* Cor de fundo muito forte */
+    color:white;
+    padding: 20px;
+}
+section{
+    background-color:green; /* Cor de fundo inadequada para o texto */
+    color:white;
+    padding: 10px;
+}
+footer{
+    background-color:pink; /* Cor de fundo conflitante */
+    color:black;
+    padding: 10px;
+}
